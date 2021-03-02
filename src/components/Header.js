@@ -13,7 +13,7 @@ const Header = (props) => {
     	</IconButton>
     	<img 
     		src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/tinder.png"
-    	 	alt=""
+    	 	alt="tinder"
     	 />
 
     	 <IconButton>
